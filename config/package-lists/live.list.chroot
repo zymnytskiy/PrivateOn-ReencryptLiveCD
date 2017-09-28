@@ -12,3 +12,4 @@ util-linux
 dmsetup
 cryptsetup
 gksu
+iptables-persistent

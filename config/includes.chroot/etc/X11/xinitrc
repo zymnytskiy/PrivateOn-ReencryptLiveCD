@@ -1,6 +1,0 @@
-#!/bin/sh
-
-python2 /opt/PrivateOn-DeployReencrypt/Reencrypt-GUI.py &
-
-exec marco
-
